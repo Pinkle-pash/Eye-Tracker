@@ -52,4 +52,5 @@ Options & Arguments:
 
 * There are some Environment variables that can  be specified to change the behaviour. Like `DEBUG_DUMP` to set whether a dump should be made when the program crashes
 ## Developer
-- Stepan Filonov (@stepacool) stepanfilonov@gmail.com
+- Matvii Bezeliuk bellmatvij2003@gmail.com
+
